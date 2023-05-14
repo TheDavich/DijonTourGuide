@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DijonTourGuide</string>
+    <string name="delirium_bar">Delirium bar</string>
+    <string name="delirium_description">Perfect place for having a drink</string>
+    <string name="william_frachot">William Frachot</string>
+    <string name="william_frachot_description">2 star Michelin Restaurant</string>
+    <string name="jardin_darcy">Jardin Darcy Park</string>
+    <string name="jardin_darcy_description">Park in city center. Perfect for families, and picnics</string>
+    <string name="planetarium">Planetarium</string>
+    <string name="planetarium_description">Education and fun together? Yes, its possible</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="starbucks_description">Located in historical city center. A perfect place for a cup of coffee</string>
+    <string name="toison_dor">La Toison dOr Mall</string>
+    <string name="toison_dor_description">Find everything you want, from food to electronics!</string>
+</resources>
